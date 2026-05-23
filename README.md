@@ -27,10 +27,10 @@ to uncover sales, profit, and market performance insights.
 ## Dashboard Screenshots
 
 ### Dashboard 1 - Global Sales Overview
-![Dashboard 1](screenshots/D1.png)
+![Dashboard 1](D1.png)
 
 ### Dashboard 2 - Profitability & Risk Analysis
-![Dashboard 2](screenshots/D2.png)
+![Dashboard 2](D2.png)
 
 ### Dashboard 3 - Country Profit Performance
-![Dashboard 3](screenshots/D3.png)
+![Dashboard 3](D3.png)
